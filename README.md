@@ -6,3 +6,5 @@ git status
 
 git add . -> minden fájl hozzáadása a gyűjteményhez
 
+git branch ágnév -> új ág létrehozása
+git checkout ágnév -> ágak közti váltás
